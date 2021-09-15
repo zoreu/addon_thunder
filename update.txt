@@ -1,5 +1,2 @@
 id="script.module.resolveurl"
 url="https://github.com/zoreu/addon_thunder/raw/main/update_resolveurl_15_09_2021.zip"
-
-id="teste"
-url="https://github.com/zoreu/addon_thunder/raw/main/update_resolveurl_15_09_2021.zip"
