@@ -1,2 +1,2 @@
 id="plugin.video.thethunder"
-url="https://github.com/zoreu/addon_thunder/raw/main/update_thunder_20_03_2022.zip"
+url="https://github.com/zoreu/addon_thunder/raw/main/update_thunder_05_04_2022.zip"
